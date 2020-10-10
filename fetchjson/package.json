@@ -1,0 +1,15 @@
+{
+  "name": "fetchjson",
+  "version": "1.0.0",
+  "description": "This is the first project in the course, and it's a simple network request demonstration. A request is made to: ``` https://jsonplaceholder.typicode.com/todos ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
